@@ -17,7 +17,7 @@ bot = commands.Bot(command_prefix='!', description='botsito discord')
 
 
 #Bot de discord
-TOKEN_DISCORD = 'OTE0OTYxMjEzODcwNDQ4Njcx.YaUqCA.hyxzdlOGFVMqYrPJcsr2OnPMUTk'
+TOKEN_DISCORD = 'OTE0OTYxMjEzODcwNDQ4Njcx.YaUqCA.2l59jK3Sj_cq2FbVa6PbRTlphf8'
 #api de la Nasa
 KEY = 'FTCG0fbOdWjTk6LFkKzYcR82NDEOQhHlhfQAfu8O'
 #api de Pexels
