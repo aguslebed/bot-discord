@@ -170,7 +170,7 @@ async def nasa(ctx):
 
 @bot.command()
 async def ping(ctx):
-    await ctx.send('Pong pedazo de puto')
+    await ctx.send('Pong')
 
 @bot.command()
 async def info(ctx):
